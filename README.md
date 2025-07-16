@@ -38,7 +38,7 @@ https://github.com/gleiberfelipe/kosmo-migrate
 ---
 
 ## 📁 Estrutura do projeto
-
+```
 kosmo/
 ├── assets/
 │ ├── fonts/
@@ -48,7 +48,7 @@ kosmo/
 │ └── style.css
 ├── index.html
 └── README.md
-
+```
 
 ---
 
@@ -94,7 +94,7 @@ E posteriormente migrado para esta conta (`gleiberfelipe`) para fins de organiza
 Me chamo **Gleiber**, sou desenvolvedor frontend em formação com foco em qualidade de entrega, performance e testes.  
 Estou construindo meu portfólio com projetos práticos que simulam a vida real de uma squad frontend, e este projeto representa meu avanço em deploys com AWS.
 
-📫 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+📫 [LinkedIn](https://www.linkedin.com/in/gleiber-coelho-40ba6927)  
 📁 [GitHub principal](https://github.com/gleiberfelipe)  
 📂 [Portfólio em progresso(projeto)](https://github.com/gleiberfelipe/fsw-food)
 
